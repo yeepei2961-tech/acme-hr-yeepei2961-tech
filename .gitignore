@@ -1,0 +1,15 @@
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+.env
+.env.*
+!.env.example
+node_modules/
+.next/
+next-env.d.ts
+.vercel/
+TestResults/
+.vs/
+.idea/
